@@ -12,4 +12,4 @@ a -> b denotes a is a prerequisite for b.
 The code is related to the following published paper:
 >Chen, Y., Wuillemin, P.-H., Labat, J.-M.: Discovering Prerequisite Structure of Skills through Probabilistic Association Rules Mining. In: Proceedings of the 8th International Conference on Educational Data Mining, Madrid, Spain, 117-124, 2015 [[pdf]](http://www.educationaldatamining.org/EDM2015/uploads/papers/paper_42.pdf)
 
-If you'd like to use the code, please *mention this paper* in your work :simple_smile:.
+If you'd like to use the code, please *mention this paper* in your work :smile:.
